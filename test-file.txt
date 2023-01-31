@@ -1,3 +1,5 @@
 This is the file for step 5: "Partner A make a file. Add and commit the file."
 
 This is another modification to the file by partner A.
+
+Step 6: Hello, this is Ella.
