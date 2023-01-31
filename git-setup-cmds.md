@@ -47,3 +47,8 @@ git push
 git branch newBranchA \
 git checkout newBranchA
 
+*Step 18:* \
+git checkout newBranchA \
+git merge ella-step15 \
+git push \
+(partner A's file was added to branch B)
